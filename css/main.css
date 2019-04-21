@@ -278,8 +278,8 @@ section {
     border: 1px solid #ffffff;
     top: 30px;
     bottom: 30px;
-    left: 30px;
-    right: 30px;
+    left: 50px;
+    right: 50px;
     z-index: 1;
 }
 
@@ -294,6 +294,7 @@ section {
 .full-banner-sidebar {
     flex: 0 0 41.666667%;
     background-color: #364147;
+    text-transform: uppercase;
     padding: 30px;
     color: #ffffff;
 }
@@ -330,6 +331,6 @@ section {
 .full-banner-sidebar .btn.btn-default {
     margin-top: 50px;
     text-transform: uppercase;
-    letter-spacing: 1;
+    letter-spacing: 1px;
     z-index: 1;
 }
